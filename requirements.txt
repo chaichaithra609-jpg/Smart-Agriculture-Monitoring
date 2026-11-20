@@ -2,3 +2,4 @@ streamlit
 pandas
 plotly
 paho-mqtt
+firebase-admin
